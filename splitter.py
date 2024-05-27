@@ -115,3 +115,5 @@ if st.button("Split Text"):
         st.text_area(
             f"Split {idx}", split, height=200
         )
+
+
